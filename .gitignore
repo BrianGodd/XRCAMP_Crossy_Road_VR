@@ -97,3 +97,11 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+Assets/Import/msjhbd.asset
+Assets/Import/msjhbd.asset.meta
+Assets/Import/msjhbd.ttc
+Assets/Import/msjhbd.ttc.meta
+Assets/Import/MSJHL.asset
+Assets/Import/MSJHL.asset.meta
+Assets/Import/MSJHL.TTC
+Assets/Import/MSJHL.TTC.meta
