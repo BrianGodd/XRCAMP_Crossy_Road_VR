@@ -1,0 +1,34 @@
+{
+    "name": "VRControl",
+    "maps": [
+        {
+            "name": "XR",
+            "id": "4fa81cdb-eaae-495e-a1e1-16adde09eead",
+            "actions": [
+                {
+                    "name": "RocketUp",
+                    "type": "Button",
+                    "id": "91610daf-194d-44de-a24e-9374a4e2384a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "9dce1000-c2da-4285-be98-e4b0ce2e88ef",
+                    "path": "<XRController>{LeftHand}/{PrimaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RocketUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
